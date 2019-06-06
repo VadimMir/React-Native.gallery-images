@@ -3,6 +3,7 @@ import {
     ADD_TO_NEXT, CLEAR_TO_NEXT
 } from './constants'
 
+
 import getPeople from './api'
 
 export function getData() {
