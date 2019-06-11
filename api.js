@@ -1,4 +1,4 @@
-const url = 'https://api.unsplash.com/photos/?client_id=Token';
+const url = 'https://api.unsplash.com/photos/?client_id=TOKEN';
 
 export default () => {
     return new Promise((resolve, reject) => {
